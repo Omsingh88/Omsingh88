@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me  
-I’m a dedicated Cloud Engineer passionate about designing, deploying, and optimizing solutions on AWS. With hands-on experience in cloud services and Linux, I specialize in creating efficient, secure, and scalable cloud architectures. I enjoy working with Infrastructure as Code (IaC) and am continuously building skills in cloud-native and DevOps practices to drive process automation and innovation.
+I’m a dedicated Cloud Engineer passionate about designing, deploying, and optimizing solutions on AWS. With hands-on experience in cloud services and Linux, I specialize in creating efficient, secure, and scalable cloud architectures. I enjoy working with Infrastructure as Code (IaC) and am continuously building skills in cloud-native and DevOps practices to drive process automation and innovation
 
 
 ---
